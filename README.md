@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ritika Kumari.
 - 👀 Currently I'm pursuing my Bachelors in Computer Science and Engineering,
-- 🌱 I'm currently learning Web development and C++.
-- 💞️ I’m looking forward towards making my own projects related with these of the above topics.
+- 🌱 I'm currently learning Data Science.
+- 💞️ I’m looking forward towards making my own projects related with topics like Machine Learning,AI and Data analysis and Data Science.
 
 
 <!---
