@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Ritika Kumari.
-- 👀 Currently I'm pursuing my Bachelors in Computer Science and Engineering,
-- 🌱 I'm currently learning Data Science and Machine Learning.
-- 💞️ I’m looking forward towards making my own projects related with topics like Machine Learning,AI and Data analysis and Data Science.
+- 👀 I have Completed my Bachelors in Computer Science and Engineering from Sarala Birla University Ranchi.
+- 🌱 I'm currently focused on Full Stack development.
 
 
 <!---
